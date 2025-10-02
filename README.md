@@ -1,16 +1,55 @@
-# React + Vite
+# 🏋️ Sport Center Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview
 
-Currently, two official plugins are available:
+**Sport Center** is a modern, responsive website created for promoting a fitness center.  
+The project includes:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Hero section on the homepage
+- Classes section with tab navigation
+- BMI (Body Mass Index) calculator
+- Trainers introduction cards
+- Purchase section for products
+- Customer reviews
+- Contact form with map
+- Footer with quick links and info
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Fully responsive** (mobile & desktop)
+- **Modern UI with TailwindCSS**
+- **Interactive elements with Vanilla JavaScript** (menu, tabs, BMI calculator)
+- **Hover effects** for better UX
+- **Google Maps integration**
+- Clean and user-friendly interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3 / TailwindCSS**
+- **JavaScript (Vanilla JS)**
+- **Font Awesome** (for icons)
+
+---
+
+## 📂 Project Structure
+
+project-root/
+
+├── index.html # Main HTML file
+
+├── style.css # Global CSS styles
+
+├── script.js # Vanilla JavaScript logic
+
+├── images/ # Image assets
+
+└── README.md # Project documentation
+
+## 🌍 Live Site
+
+Check out the live demo here: [Live Site Link](https://incomparable-starship-46df85.netlify.app/)
