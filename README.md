@@ -1,4 +1,4 @@
-# 🏋️ Sport Center Website
+# 🏋️ Sport Center Website by React
 
 ## 📌 Project Overview
 
@@ -29,6 +29,7 @@ The project includes:
 
 ## 🛠️ Technologies Used
 
+- **React**
 - **HTML5**
 - **CSS3 / TailwindCSS**
 - **JavaScript (Vanilla JS)**
